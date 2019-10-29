@@ -1,0 +1,16 @@
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\bin\Debug\netstandard2.0\ProyectoHci.deps.json
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\bin\Debug\netstandard2.0\ProyectoHci.dll
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\bin\Debug\netstandard2.0\ref\ProyectoHci.dll
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\bin\Debug\netstandard2.0\ProyectoHci.pdb
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ProyectoHci.csprojAssemblyReference.cache
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ProyectoHci.AssemblyInfoInputs.cache
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ProyectoHci.AssemblyInfo.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ProyectoHci.dll
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ref\ProyectoHci.dll
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\ProyectoHci.pdb
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Inicio.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Peliculas.xaml.g.cs
