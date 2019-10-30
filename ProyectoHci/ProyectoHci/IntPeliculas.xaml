@@ -22,20 +22,88 @@
                                  WidthRequest="45"
                                  HeightRequest="45"
                                  BackgroundColor="Transparent"
-                                 ></ImageButton>
+                                 Clicked="volver"></ImageButton>
                         <ImageButton Grid.Row="0"
                                  Source="generos.png"
                                  WidthRequest="45"
                                  HeightRequest="45"
-                                 BackgroundColor="Transparent">
+                                 BackgroundColor="Transparent"
+                                 Clicked="irGeneros">
                         </ImageButton>
 
                         <ImageButton Grid.Row="0"
                                  Source="favoritos.png"
                                  WidthRequest="45"
                                  HeightRequest="45"
-                                 BackgroundColor="Transparent"></ImageButton>
+                                 BackgroundColor="Transparent"
+                                 Clicked="volver"></ImageButton>
                     </StackLayout>
+
+                </StackLayout>
+
+                <StackLayout Grid.Row="1">
+                    <StackLayout Orientation="Horizontal">
+                        <Image Grid.Row="0"
+                               Source="cover.png"
+                               WidthRequest="120"
+                               HeightRequest="150">
+                        </Image>
+
+                        <Image Grid.Row="1"
+                               Source="play.png"
+                               WidthRequest="200"
+                               HeightRequest="200"></Image>
+                    </StackLayout>
+
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Nombre de la pelicula"
+                               TextColor="White"
+                               FontSize="22"></Label>
+                        <Label Text="Aqui va la decripcion de la pelicula"
+                               TextColor="White"></Label>
+                        <Label Text="Genero: Drama"
+                               TextColor="White"></Label>
+                        <Label Text="Duracion: 120 minutos"
+                               TextColor="White"></Label>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton Grid.Row="0"
+                                 WidthRequest="120"
+                                 HeightRequest="150"
+                                 Margin="20,20,50,0"
+                                 Source="peli5.jpg"
+                                 BackgroundColor="Transparent">
+                        </ImageButton>
+                        <ImageButton Grid.Row="0"
+                                 WidthRequest="120"
+                                 HeightRequest="150"
+                                 Margin="0,20,20,0"
+                                 Source="peli6.jpg"
+                                 BackgroundColor="Transparent">
+
+                        </ImageButton>
+
+                    </StackLayout>
+
+                    <StackLayout Orientation="Horizontal">
+                        <ImageButton Grid.Row="1"
+                                 WidthRequest="120"
+                                 HeightRequest="150"
+                                 Margin="20,20,50,0"
+                                 Source="peli7.jpg"
+                                 BackgroundColor="Transparent">
+                        </ImageButton>
+                        <ImageButton Grid.Row="1"
+                                 WidthRequest="120"
+                                 HeightRequest="150"
+                                 Margin="0,20,20,0"
+                                 Source="peli8.jpg"
+                                 BackgroundColor="Transparent">
+
+                        </ImageButton>
+
+                    </StackLayout>
+
 
                 </StackLayout>
             </Grid>

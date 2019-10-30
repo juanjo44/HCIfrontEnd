@@ -21,5 +21,15 @@ namespace ProyectoHci
         {
             await Navigation.PushModalAsync(new IntPeliculas());
         }
+
+        private async void volver(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new Inicio());
+        }
+
+        private async void irGeneros(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new Generos());
+        }
     }
 }

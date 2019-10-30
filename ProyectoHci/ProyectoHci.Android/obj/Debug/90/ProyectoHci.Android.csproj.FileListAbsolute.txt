@@ -506,3 +506,11 @@ C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debu
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\peli7.jpg
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\peli6.jpg
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\peli5.jpg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\play.png
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\cover.png
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\ficcion.jpeg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\accion.jpeg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\comedia.jpeg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\drama.jpeg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\horror.jpeg
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci.Android\obj\Debug\90\res\drawable\peli1.png

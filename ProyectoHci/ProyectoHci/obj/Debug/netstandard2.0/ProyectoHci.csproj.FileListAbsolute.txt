@@ -14,3 +14,5 @@ C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netsta
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Registro.xaml.g.cs
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Inicio.xaml.g.cs
 C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Peliculas.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\IntPeliculas.xaml.g.cs
+C:\Users\OSCAR IVAN\Desktop\ProyectoHci\ProyectoHci\ProyectoHci\obj\Debug\netstandard2.0\Generos.xaml.g.cs

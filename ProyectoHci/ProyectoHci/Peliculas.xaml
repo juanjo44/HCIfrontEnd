@@ -22,12 +22,13 @@
                                  WidthRequest="45"
                                  HeightRequest="45"
                                  BackgroundColor="Transparent"
-                                 ></ImageButton>
+                                 Clicked="volver"></ImageButton>
                         <ImageButton Grid.Row="0"
                                  Source="generos.png"
                                  WidthRequest="45"
                                  HeightRequest="45"
-                                 BackgroundColor="Transparent">
+                                 BackgroundColor="Transparent"
+                                 Clicked="irGeneros">
                         </ImageButton>
 
                         <ImageButton Grid.Row="0"
@@ -48,7 +49,7 @@
                                  WidthRequest="120"
                                  HeightRequest="150"
                                  Margin="20,20,50,0"
-                                 Source="peli1.jpg"
+                                 Source="peli1.png"
                                  BackgroundColor="Transparent"
                                  Clicked="intPeliculas">
 
