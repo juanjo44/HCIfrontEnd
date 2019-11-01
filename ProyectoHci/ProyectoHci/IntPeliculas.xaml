@@ -49,10 +49,11 @@
                                HeightRequest="150">
                         </Image>
 
-                        <Image Grid.Row="1"
+                        <ImageButton Grid.Row="1"
                                Source="play.png"
                                WidthRequest="200"
-                               HeightRequest="200"></Image>
+                               HeightRequest="200"
+                               Clicked="OnDisplayAlertQuestionButtonClicked"></ImageButton>
                     </StackLayout>
 
                     <StackLayout Orientation="Vertical">

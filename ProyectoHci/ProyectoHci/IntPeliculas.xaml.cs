@@ -26,5 +26,11 @@ namespace ProyectoHci
         {
             await Navigation.PushModalAsync(new Generos());
         }
+
+        async void OnDisplayAlertQuestionButtonClicked(object sender, EventArgs e)
+        {
+            bool response = await DisplayAlert("¿Reproducir?", "¿Estas seguro que quieres reproducir esta pelicula?", "No", "So");
+            Console.WriteLine("Save data: " + response);
+        }
     }
 }
