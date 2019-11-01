@@ -29,7 +29,7 @@ namespace ProyectoHci
 
         async void OnDisplayAlertQuestionButtonClicked(object sender, EventArgs e)
         {
-            bool response = await DisplayAlert("¿Reproducir?", "¿Estas seguro que quieres reproducir esta pelicula?", "No", "So");
+            bool response = await DisplayAlert("¿Reproducir?", "¿Estas seguro que quieres reproducir esta pelicula?", "No", "Si");
             Console.WriteLine("Save data: " + response);
         }
     }
