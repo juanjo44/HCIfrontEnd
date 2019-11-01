@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj": {}
+    "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj": {
+    "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
+        "projectUniqueName": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
         "projectName": "ProyectoHci.Android",
-        "projectPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
-        "packagesPath": "C:\\Users\\OSCAR IVAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\obj\\",
+        "projectPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
+        "packagesPath": "C:\\Users\\ciscoseg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\OSCAR IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ciscoseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
-                "projectPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj"
+              "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
+                "projectPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj"
               }
             }
           }
@@ -58,20 +58,21 @@
         }
       }
     },
-    "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
+    "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj",
+        "projectUniqueName": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj",
         "projectName": "ProyectoHci",
-        "projectPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj",
-        "packagesPath": "C:\\Users\\OSCAR IVAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\obj\\",
+        "projectPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj",
+        "packagesPath": "C:\\Users\\ciscoseg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\OSCAR IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ciscoseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -112,16 +113,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

@@ -1911,24 +1911,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\OSCAR IVAN\\.nuget\\packages\\": {},
+    "C:\\Users\\ciscoseg\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
+      "projectUniqueName": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
       "projectName": "ProyectoHci.Android",
-      "projectPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
-      "packagesPath": "C:\\Users\\OSCAR IVAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci.Android\\obj\\",
+      "projectPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\ProyectoHci.Android.csproj",
+      "packagesPath": "C:\\Users\\ciscoseg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\OSCAR IVAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ciscoseg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1942,8 +1942,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
-              "projectPath": "C:\\Users\\OSCAR IVAN\\Desktop\\ProyectoHci\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj"
+            "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj": {
+              "projectPath": "C:\\Users\\ciscoseg\\Desktop\\hci\\HCIfrontEnd\\ProyectoHci\\ProyectoHci\\ProyectoHci.csproj"
             }
           }
         }
